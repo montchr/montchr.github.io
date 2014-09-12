@@ -26,9 +26,12 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <br>
+
+      <a class="sidebar-nav-item" href="{{ site.author.twitter }}">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.author.github }}">GitHub</a>
+      <a class="sidebar-nav-item" href="{{ site.author.linkedin }}">LinkedIn</a>
+      <a class="sidebar-nav-item" href="{{ site.author.pinboard }}">Pinboard</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
