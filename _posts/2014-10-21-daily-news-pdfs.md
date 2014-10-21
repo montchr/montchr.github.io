@@ -34,3 +34,10 @@ I took the URL into Sublime Text, duplicated it 30 times, then went through each
 <iframe width="420" height="315" src="//www.youtube.com/embed/k01-VRZf6oE" frameborder="0" allowfullscreen></iframe>
 
 So, Philly Daily News, if you're reading this, please know I post with the best intentions – be aware that your PDFs are available to the public.
+
+__Update:__ I should add, for my own reference and for the purpose of my project, that I'm missing four days due to recurring application errors:
+
+- 2014-09-27
+- 2014-10-04
+- 2014-10-11
+- 2014-10-18
