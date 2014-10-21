@@ -3,7 +3,7 @@ layout: post
 title: philadelphia daily news PDFs
 ---
 
-I subscribed to the Philadelphia Daily News to get access to their "Digital Replica," which is essentially a PDF of every issue loaded into a clunky ASP/Flash application. Fortunately they provide a download option for PDFs. Unfortunately, they only expose access to the past month of issues. Which seems to ~~defeat the purpose~~ severely limit the usefulness of such an application to me. But, as I'll explain a little later, I only need the past month of PDFs.
+I subscribed to the Philadelphia Daily News to get access to their "Digital Replica," which is essentially a PDF of every issue loaded into a clunky ASP/Flash application. Fortunately they provide a download option for PDFs. Unfortunately, they only expose access to the past month of issues. Which seems to severely limit the usefulness of such an application to me. But, as I'll explain a little later, I only need the past month of PDFs.
 
 By chance, I discovered not only that it's possible to access PDFs not exposed by their application, but it's also possible to access these *without authentication*. Yes, they are publicly available.
 
@@ -33,4 +33,4 @@ I took the URL into Sublime Text, duplicated it 30 times, then went through each
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/k01-VRZf6oE" frameborder="0" allowfullscreen></iframe>
 
-So, Philly Daily News, if you're reading these, please know I post with the best intentions – be aware that your PDFs are available to the public.
+So, Philly Daily News, if you're reading this, please know I post with the best intentions – be aware that your PDFs are available to the public.
