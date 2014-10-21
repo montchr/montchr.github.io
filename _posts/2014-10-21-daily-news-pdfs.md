@@ -3,7 +3,7 @@ layout: post
 title: philadelphia daily news PDFs
 ---
 
-I subscribed to the Philadelphia Daily News to get access to their "Digital Replica," which is essentially a PDF of every issue loaded into a clunky ASP/Flash application. Fortunately they provide a download option for PDFs. Unfortunately, they only expose access to the past month of issues. Which seems to defeat the purpose of such an application to me.
+I subscribed to the Philadelphia Daily News to get access to their "Digital Replica," which is essentially a PDF of every issue loaded into a clunky ASP/Flash application. Fortunately they provide a download option for PDFs. Unfortunately, they only expose access to the past month of issues. Which seems to ~~defeat the purpose~~ severely limit the usefulness of such an application to me. But, as I'll explain a little later, I only need the past month of PDFs.
 
 By chance, I discovered not only that it's possible to access PDFs not exposed by their application, but it's also possible to access these *without authentication*. Yes, they are publicly available.
 
@@ -32,3 +32,5 @@ So, for the project I'm working on – the whole reason I've been trying to get 
 I took the URL into Sublime Text, duplicated it 30 times, then went through each and changed the dates. Then I found the [Bulk URL Opener Extension](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?hl=en) for Chrome, which allows you to take a bunch of URLs separated by new lines, and open them in new tabs. Which, in my case, means downloading all of the files at once. I suppose a dedicated download manager would have been able to handle this too. But the resulting video is quite magical:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/k01-VRZf6oE" frameborder="0" allowfullscreen></iframe>
+
+So, Philly Daily News, if you're reading these, please know I post with the best intentions – be aware that your PDFs are available to the public.
