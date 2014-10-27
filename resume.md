@@ -90,10 +90,10 @@ Philadelphia, PA
 - HTML5
 - CSS3
 - JS/jQuery/CoffeeScript
-- SASS/LESS
 - PHP/WordPress
+- SASS/LESS
 - SQL
-- Shell scripting
+- Bash/ZSH
 
 ### Tools
 
