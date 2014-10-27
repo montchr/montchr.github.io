@@ -12,13 +12,24 @@ Web Development
 
 ## Experience
 
+### Freelance Web Developer @ Billy Penn
+
+*August 2014 – Present*
+
+- Work with a team of experienced WordPress developers, designers, and media professionals to launch mobile-first web news platform in October 2014.
+- Developed simple theme for splash site in August 2014
+
+#### Links
+
+- [Billy Penn](http://billypenn.com/)
+
 ### Web Developer @ Temple University School of Media and Communication
 
 *January 2013 – Present*
 
 - Co-maintain and resolve issues for network of over 50 WordPress sites.
-- Redesigning main school site, migrated WordPress network to new CentOS VPS hosting.
-- Developed Vagrant development environment based on CentOS production environment.
+- Redesigned main school site, migrated WordPress network to CentOS VPS hosting.
+- Built Vagrant development environment based on CentOS production environment.
 - Create and optimize sites for faculty and student projects and media publications.
 - Encourage use of emerging open-source development and design tools.
 
@@ -44,6 +55,7 @@ Web Development
 
 #### Awards
 
+- Finalist, 2014 EPPY Award for Best College/University Newspaper Website  
 - Finalist, 2013 EPPY Award for Best College/University Newspaper Website  
 - Winner, 2013 Student Keystone Press Award for Best Website
 - Finalist, 2012 EPPY Award for Best College/University Newspaper Website
@@ -77,13 +89,11 @@ Philadelphia, PA
 
 - HTML5
 - CSS3
-- SASS/LESS
 - JS/jQuery/CoffeeScript
-- PHP
-- MySQL
+- SASS/LESS
+- PHP/WordPress
+- SQL
 - Shell scripting
-- NodeJS
-- Python
 
 ### Tools
 
