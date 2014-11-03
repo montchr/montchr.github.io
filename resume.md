@@ -55,6 +55,7 @@ Web Development
 
 #### Awards
 
+- Winner, 2014 ACP Online Pacemaker - Newspaper More than 20000 Enrollment
 - Finalist, 2014 EPPY Award for Best College/University Newspaper Website  
 - Finalist, 2013 EPPY Award for Best College/University Newspaper Website  
 - Winner, 2013 Student Keystone Press Award for Best Website
