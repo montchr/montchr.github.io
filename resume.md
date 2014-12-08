@@ -4,7 +4,6 @@ title: Résumé
 ---
 
 [chris@montchr.io](mailto:chris@montchr.io)  
-[267-317-5718](tel:267-317-5718)  
 [@montchr](https://twitter.com/montchr)  
 [https://github.com/montchr](https://github.com/montchr)
 
