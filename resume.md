@@ -11,16 +11,23 @@ Web Development
 
 ## Experience
 
-### Freelance Web Developer @ Billy Penn
+### Web Developer @ Billy Penn
 
-*August 2014 – Present*
+*January 2015 – Present*
 
-- Work with a team of experienced WordPress developers, designers, and media professionals to launch mobile-first web news platform in October 2014.
-- Developed simple theme for splash site in August 2014
+- Work with a team of experienced WordPress developers, designers, and media professionals to continue development of a mobile-first online news platform.
 
 #### Links
 
 - [Billy Penn](http://billypenn.com/)
+- [Chris @ Billy Penn](http://billypenn.com/about/chris-montgomery/)
+
+### Freelance Web Developer @ Billy Penn
+
+*August 2014 – December 2014*
+
+- Contributed to initial build of Billy Penn for its launch in October 2014
+- Developed simple theme for splash site in August 2014
 
 ### Web Developer @ Temple University School of Media and Communication
 
