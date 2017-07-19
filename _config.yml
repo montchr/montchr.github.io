@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            'mont(gomery), chr(is)'
 tagline:          'A website for Chris Montgomery'
-description:      'Chris Montgomery is a web developer. He works for a website called Billy Penn.'
+description:      'Chris Montgomery is a web developer. He works for a company called Spirited Media.'
 url:              http://montchr.io
 baseurl:          /
 
@@ -24,4 +24,3 @@ author:
   github:         https://github.com/montchr
   linkedin:       https://www.linkedin.com/in/montchr
   pinboard:       https://pinboard.in/u:montchr
-  ello:           https://ello.co/montchr
