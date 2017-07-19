@@ -1,6 +1,3 @@
-# Dependencies
-highlighter:      pygments
-
 # Permalinks
 permalink:        pretty
 
@@ -12,6 +9,8 @@ url:              http://montchr.io
 baseurl:          /
 
 paginate:         5
+
+gems: ['jekyll-github-metadata']
 
 
 # Custom vars
