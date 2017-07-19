@@ -11,22 +11,35 @@ Web Development
 
 ## Experience
 
-### Web Developer @ Billy Penn
+### Web Developer @ Spirited Media
 
 *January 2015 – Present*
 
-- Work with a team of experienced WordPress developers, designers, and media professionals to continue development of a mobile-first online news platform.
+- Work with a team of experienced developers, designers, and media professionals to continue development of Pedestal, a mobile-first online news publishing platform
+- Served as sole developer for over a year of the company's initial growth period
+- Handled feature requests and bug fixes from editorial and sales teams, improved performance, mitigated spam attacks, major refactors
+- Implemented many new frontend and backend features based on mockups and product requirements
+- Guided freelance developers as they developed new features for use within our systems
+- Engaged in frequent code review and QA sessions with other developers and designers
+- Contributed to several open source projects upon which Pedestal depends
+- Maintained documentation for various Pedestal features
+- Developed a complex post ontology tagging system based on Schema.org
+- Developed and published a PHP API for EveryBlock
+- Occasionally takes photographs for articles
 
 #### Links
 
-- [Billy Penn](http://billypenn.com/)
-- [Chris @ Billy Penn](http://billypenn.com/about/chris-montgomery/)
+- [Spirited Media](https://spiritedmedia.com/)
+- [Billy Penn](https://billypenn.com/)
+- [The Incline](https://theincline.com/)
+- [Chris @ Billy Penn](https://billypenn.com/about/chris-montgomery/)
+- [EveryBlock PHP API on GitHub](https://github.com/spiritedmedia/everyblock-php-api)
 
-### Freelance Web Developer @ Billy Penn
+### Freelance Web Developer @ Spirited Media
 
 *August 2014 – December 2014*
 
-- Contributed to initial build of Billy Penn for its launch in October 2014
+- Contributed to initial build of Spirited Media's first website Billy Penn for its launch in October 2014
 - Developed simple theme for splash site in August 2014
 
 ### Web Developer @ Temple University School of Media and Communication
@@ -41,12 +54,9 @@ Web Development
 
 #### Links
 
-- [Temple SMC Themes (GitHub)](https://github.com/templesmc/smc-themes)
-- [Temple SMC (GitHub)](https://github.com/templesmc)
 - [Temple Update](http://templeupdate.com/)
 - [Temple Update (GitHub)](https://github.com/templesmc/tuupdate/)
 - [Temple TV](http://templetv.net/)
-- [Temple TV (GitHub)](https://github.com/templesmc/tutv/)
 
 ### Web Editor @ The Temple News
 
@@ -61,7 +71,7 @@ Web Development
 
 #### Awards
 
-- Winner, 2014 ACP Online Pacemaker - Newspaper More than 20000 Enrollment
+- Winner, 2014 ACP Online Pacemaker - Newspaper More than 20,000 Enrollment
 - Finalist, 2014 EPPY Award for Best College/University Newspaper Website  
 - Finalist, 2013 EPPY Award for Best College/University Newspaper Website  
 - Winner, 2013 Student Keystone Press Award for Best Website
@@ -78,38 +88,35 @@ Web Development
 
 ## Education
 
-**BA Journalism**
-*2009 – 2014*
-Photojournalism concentration
-Temple University
-Philadelphia, PA
+**BA Journalism**  
+*2009 – 2014*  
+Photojournalism concentration  
+Temple University  
+Philadelphia, PA  
 
-Multimedia / Interactive Design
-*2007 – 2008*
-University of the Arts
-Philadelphia, PA
+Multimedia / Interactive Design  
+*2007 – 2008*  
+University of the Arts  
+Philadelphia, PA  
 
 
-## Skills
+## Technology + Skills
 
-### Languages
-
+- PHP/WordPress/Drupal
+- JavaScript/jQuery/Node.js
 - HTML5
-- CSS3
-- JS/jQuery/CoffeeScript
-- PHP/WordPress
-- SASS/LESS
+- CSS3/Sass
 - SQL
-- Bash/ZSH
-
-### Tools
-
-- Sublime Text 3
-- Google Chrome Developer Tools
-- Git
+- Git/GitHub/BitBucket
+- Bash
 - Grunt
+- Ruby
 - Vagrant
+- Agile
+- CircleCI/Travis CI
+- Amazon Web Services
 - Adobe Creative Suite CC
-- Microsoft Excel
-- Mac OS X
+- Microsoft Office
+- macOS
 - Linux
+- Microsoft Windows 10
