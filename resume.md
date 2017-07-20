@@ -48,7 +48,8 @@ Web Development
 *January 2013 – Present*
 
 - Co-maintained and resolved issues for network of over 50 WordPress sites
-- Redesigned main school site, migrated WordPress network to CentOS VPS hosting
+- Migrated WordPress network to CentOS VPS hosting
+- Redesigned main school site
 - Designed new staff and faculty directory
 - Built Vagrant development environment based on CentOS production environment
 - Create and optimize sites for faculty and student projects and media publications
