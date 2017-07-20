@@ -45,7 +45,7 @@ Web Development
 
 ### Web Developer @ Temple University School of Media and Communication
 
-*January 2013 – Present*
+*January 2013 – December 2014*
 
 - Co-maintained and resolved issues for network of over 50 WordPress sites
 - Migrated WordPress network to CentOS VPS hosting
