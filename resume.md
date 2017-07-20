@@ -15,17 +15,18 @@ Web Development
 
 *January 2015 – Present*
 
-- Work with a team of experienced developers, designers, and media professionals to continue development of Pedestal, a mobile-first online news publishing platform
-- Served as sole developer for over a year of the company's initial growth period
-- Handled feature requests and bug fixes from editorial and sales teams, improved performance, mitigated spam attacks, major refactors
-- Implemented many new frontend and backend features based on mockups and product requirements
-- Guided freelance developers as they developed new features for use within our systems
-- Engaged in frequent code review and QA sessions with other developers and designers
-- Contributed to several open source projects upon which Pedestal depends
-- Maintained documentation for various Pedestal features
-- Developed a complex post ontology tagging system based on Schema.org
-- Developed and published a PHP API for EveryBlock
-- Occasionally takes photographs for articles
+- Works with a team of experienced developers, designers, and media professionals to continue development of Pedestal, a mobile-first online news publishing platform
+- Served as sole developer and technology lead for over a year of the company's initial growth period
+- Handles feature requests and bug fixes from editorial and sales teams, improves performance, mitigates spam attacks, refactors codebase to meet evolving requirements
+- Implements new frontend and backend features based on mockups and product requirements
+- Developed a post ontology tagging system based on Schema.org
+- Developed a sponsorship scheduling system for use in emails
+- Developed and published a PHP API for EveryBlock, integrated data into neighborhood-specific post streams and email blasts
+- Guides freelance developers as they develop new features
+- Leads product demonstrations and provides one-on-one support for editorial and sales teams
+- Engages in frequent code review and QA sessions with other developers and designers
+- Contributes to several open source projects upon which Pedestal depends
+- Maintains documentation for various Pedestal features
 
 #### Links
 
@@ -46,11 +47,15 @@ Web Development
 
 *January 2013 – Present*
 
-- Co-maintain and resolve issues for network of over 50 WordPress sites.
-- Redesigned main school site, migrated WordPress network to CentOS VPS hosting.
-- Built Vagrant development environment based on CentOS production environment.
-- Create and optimize sites for faculty and student projects and media publications.
-- Encourage use of emerging open-source development and design tools.
+- Co-maintained and resolved issues for network of over 50 WordPress sites
+- Redesigned main school site, migrated WordPress network to CentOS VPS hosting
+- Designed new staff and faculty directory
+- Built Vagrant development environment based on CentOS production environment
+- Create and optimize sites for faculty and student projects and media publications
+- Created animated weather forecast widget for Temple Update using the Dark Sky API
+- Mentored other student workers
+- Encouraged use of emerging open-source development and design tools
+- Published site code changes to GitHub
 
 #### Links
 
@@ -62,12 +67,12 @@ Web Development
 
 *June 2012 – May 2014*
 
-- Redesigned site in 2012.
-- Developed new features, maintenance, designed unique pages for special issues.
-- Led production on a longform multimedia story.
-- Collaborated with section editors on web-exclusive content.
-- Responded to support requests.
-- Posted articles every week prior to hiring an Assistant Web Editor in spring 2013.
+- Redesigned site in 2012
+- Developed new features, maintenance, designed unique pages for special issues
+- Led production on a longform multimedia story
+- Collaborated with section editors on web-exclusive content
+- Responded to support requests
+- Posted articles every week prior to hiring an Assistant Web Editor in spring 2013
 
 #### Awards
 
@@ -107,16 +112,25 @@ Philadelphia, PA
 - HTML5
 - CSS3/Sass
 - SQL
-- Git/GitHub/BitBucket
+- Twig
+- Git/GitHub
+- TDD/PHPUnit
 - Bash
-- Grunt
+- Grunt/Gulp
 - Ruby
 - Vagrant
+- Jekyll
 - Agile
+- OOP
+- REST APIs
+- JSON
+- XML
 - CircleCI/Travis CI
 - Amazon Web Services
 - Adobe Creative Suite CC
+- Google Docs
 - Microsoft Office
+- Slack
 - macOS
 - Linux
 - Microsoft Windows 10
