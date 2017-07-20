@@ -10,6 +10,7 @@ url:              http://montchr.io
 paginate:         5
 
 gems: ['jekyll-github-metadata']
+livereload: true
 
 
 # Custom vars
