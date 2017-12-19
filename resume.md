@@ -3,11 +3,10 @@ layout: page
 title: Résumé
 ---
 
+# Chris Montgomery // Web Developer
 [chris@montchr.io](mailto:chris@montchr.io)  
 [@montchr](https://twitter.com/montchr)  
 [https://github.com/montchr](https://github.com/montchr)
-
-Web Development
 
 ## Experience
 
@@ -17,10 +16,10 @@ Web Development
 
 - Works with a team of experienced developers, designers, and media professionals to continue development of Pedestal, a mobile-first online news publishing platform
 - Served as sole developer and technology lead for over a year of the company's initial growth period
-- Handles feature requests and bug fixes from editorial and sales teams, improves performance, mitigates spam attacks, refactors codebase to meet evolving requirements
+- Handles feature requests and bug fixes from editorial and sales teams, improves performance, refactors codebase to meet evolving requirements
 - Implements new frontend and backend features based on mockups and product requirements
-- Developed a post ontology tagging system based on Schema.org
-- Developed a sponsorship scheduling system for use in emails
+- Developed a post ontology tag system based on Schema.org
+- Developed a sponsorship scheduling system
 - Developed and published a PHP API for EveryBlock, integrated data into neighborhood-specific post streams and email blasts
 - Guides freelance developers as they develop new features
 - Leads product demonstrations and provides one-on-one support for editorial and sales teams
@@ -49,8 +48,8 @@ Web Development
 
 - Co-maintained and resolved issues for network of over 50 WordPress sites
 - Migrated WordPress network to CentOS VPS hosting
-- Redesigned main school site
-- Designed new staff and faculty directory
+- Implemented redesign of main school site
+- Developed new staff and faculty directory
 - Built Vagrant development environment based on CentOS production environment
 - Create and optimize sites for faculty and student projects and media publications
 - Created animated weather forecast widget for Temple Update using the Dark Sky API
@@ -87,10 +86,8 @@ Web Development
 
 - [The Temple News](http://temple-news.com/)
 - ['Chop, Boom, You're Gone'](http://chopboom.com/)
-- [TTN: Reunion 2013](http://temple-news.com/reunion-2013/)
 - [TTN: The Essayist](http://temple-news.com/essays/)
 - ['Chop, Boom, You're Gone' (GitHub)](https://github.com/TheTempleNews/chopboom)
-- [The Temple News (GitHub)](https://github.com/montchr/zombie/)
 
 ## Education
 
@@ -108,27 +105,25 @@ Philadelphia, PA
 
 ## Technology + Skills
 
-- PHP/WordPress/Drupal
-- JavaScript/jQuery/Node.js
+- PHP / WordPress / Drupal / Twig
+- JavaScript / AJAX / jQuery / Node.js
 - HTML5
 - CSS3/Sass
+- Python / Django
 - SQL
-- Twig
-- Git/GitHub
-- TDD/PHPUnit
-- Bash
-- Grunt/Gulp
+- Git / GitHub
+- TDD / PHPUnit
+- Bash / ZSH
+- Grunt / Gulp
 - Ruby
 - Vagrant
 - Jekyll
 - Agile
 - OOP
-- REST APIs
-- JSON
-- XML
-- CircleCI/Travis CI
+- REST APIs / JSON / XML
+- CircleCI / Travis CI
 - Amazon Web Services
-- Adobe Creative Suite CC
+- Adobe Creative Suite
 - Google Docs
 - Microsoft Office
 - Slack
