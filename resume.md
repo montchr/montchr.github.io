@@ -1,3 +1,8 @@
+---
+layout: page
+title: Résumé
+---
+
 # Chris Montgomery
 ## Full-Stack Developer
 [chris@montchr.io](mailto:chris@montchr.io)
