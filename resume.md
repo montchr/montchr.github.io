@@ -14,18 +14,18 @@ https://github.com/montchr
 Web Developer
 *January 2015 – Present*
 
-- Working with a team of experienced developers, designers, and media professionals on continuing development of a responsive WordPress-based news publishing framework
-- Served as sole developer and technology lead for over a year of the company’s initial growth period
+- Working with a team of experienced developers, designers, and media professionals on continuing development of a responsive news publishing framework based on WordPress
+- Served as sole developer for over a year of the company’s initial growth period
 - Improving site performance, editorial CMS experience, and developer workflow
 - Created components powering membership campaigns, displaying a variety of editorial-defined messages targeted to specific reader audiences, including live previews for the editorial-facing UI
 - Improving analytics tracking and advertising according to changing and expanding needs
+- Working with various APIs for integrating and distributing content
+- Engaging in regular code review, QA, standups, and sprint planning
 - Led development of a post ontology tag system based on Schema.org
 - Led development of a sponsored content scheduling system
-- Working with various APIs for integrating and distributing content
+- Contributing to several open source project dependencies
 - Leading company-wide product demonstrations
 - Providing one-on-one support for editorial and sales teams
-- Engaging in regular code review, QA, standups, and sprint planning
-- Contributing to several open source project dependencies
 
 
 #### Temple University Klein College of Media and Communication
@@ -37,7 +37,7 @@ Web Developer
 - Developed new staff and faculty directory
 - Built Vagrant development environment based on production environment
 - Mentored fellow student workers
-- Encouraged open-source development and a modern workflow
+- Spearheaded use of open-source development and a modern workflow
 
 
 #### The Temple News
@@ -46,7 +46,7 @@ Web Editor
 
 - Redesigned site in 2012, winning several awards as one of the first college media websites to use responsive design
 - Developed new features, maintenance, designed unique pages for special issues
-- Led web presentation of a longform multimedia story, ‘Chop, Boom, You’re Gone’
+- Led web production of a longform multimedia story, ‘Chop, Boom, You’re Gone’
 
 
 ### Skills
