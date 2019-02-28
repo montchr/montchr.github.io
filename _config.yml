@@ -5,7 +5,7 @@ permalink:        pretty
 title:            'mont(gomery), chr(is)'
 tagline:          'A website for Chris Montgomery'
 description:      'Chris Montgomery is a web developer. Chris works for a company called Spirited Media.'
-url:              http://montchr.io
+url:              https://montchr.io
 
 paginate:         5
 
