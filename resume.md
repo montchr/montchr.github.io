@@ -3,130 +3,64 @@ layout: page
 title: Résumé
 ---
 
-# Chris Montgomery // Web Developer
-[chris@montchr.io](mailto:chris@montchr.io)  
-[@montchr](https://twitter.com/montchr)  
-[https://github.com/montchr](https://github.com/montchr)
+# Chris Montgomery
+## Full-Stack Developer
+[chris@montchr.io](mailto:chris@montchr.io)
+https://github.com/montchr
 
-## Experience
+### Experience
 
-### Web Developer @ Spirited Media
-
+#### Spirited Media
+Web Developer
 *January 2015 – Present*
 
-- Works with a team of experienced developers, designers, and media professionals to continue development of Pedestal, a mobile-first online news publishing platform
-- Served as sole developer and technology lead for over a year of the company's initial growth period
-- Handles feature requests and bug fixes from editorial and sales teams, improves performance, refactors codebase to meet evolving requirements
-- Implements new frontend and backend features based on mockups and product requirements
-- Developed a post ontology tag system based on Schema.org
-- Developed a sponsorship scheduling system
-- Developed and published a PHP API for EveryBlock, integrated data into neighborhood-specific post streams and email blasts
-- Guides freelance developers as they develop new features
-- Leads product demonstrations and provides one-on-one support for editorial and sales teams
-- Engages in frequent code review and QA sessions with other developers and designers
-- Contributes to several open source projects upon which Pedestal depends
-- Maintains documentation for various Pedestal features
+- Working with a team of experienced developers, designers, and media professionals on continuing development of a responsive news publishing framework based on WordPress
+- Served as sole developer for over a year of the company’s initial growth period
+- Improving site performance, editorial CMS experience, and developer workflow
+- Created components powering membership campaigns, displaying a variety of editorial-defined messages targeted to specific reader audiences, including live previews for the editorial-facing UI
+- Improving analytics tracking and advertising according to changing and expanding needs
+- Working with various APIs for integrating and distributing content
+- Engaging in regular code review, QA, standups, and sprint planning
+- Led development of a post ontology tag system based on Schema.org
+- Led development of a sponsored content scheduling system
+- Contributing to several open source project dependencies
+- Leading company-wide product demonstrations
+- Providing one-on-one support for editorial and sales teams
 
-#### Links
 
-- [Spirited Media](https://spiritedmedia.com/)
-- [Billy Penn](https://billypenn.com/)
-- [The Incline](https://theincline.com/)
-- [Chris @ Billy Penn](https://billypenn.com/about/chris-montgomery/)
-- [EveryBlock PHP API on GitHub](https://github.com/spiritedmedia/everyblock-php-api)
-
-### Freelance Web Developer @ Spirited Media
-
-*August 2014 – December 2014*
-
-- Contributed to initial build of Spirited Media's first website Billy Penn for its launch in October 2014
-- Developed simple theme for splash site in August 2014
-
-### Web Developer @ Temple University School of Media and Communication
-
+#### Temple University Klein College of Media and Communication
+Web Developer
 *January 2013 – December 2014*
 
-- Co-maintained and resolved issues for network of over 50 WordPress sites
-- Migrated WordPress network to CentOS VPS hosting
-- Implemented redesign of main school site
+- Co-maintained, re-designed, and resolved issues for main college website and over 50 student projects and media publications
+- Migrated WordPress multisite network to CentOS VPS hosting
 - Developed new staff and faculty directory
-- Built Vagrant development environment based on CentOS production environment
-- Create and optimize sites for faculty and student projects and media publications
-- Created animated weather forecast widget for Temple Update using the Dark Sky API
-- Mentored other student workers
-- Encouraged use of emerging open-source development and design tools
-- Published site code changes to GitHub
+- Built Vagrant development environment based on production environment
+- Mentored fellow student workers
+- Spearheaded use of open-source development and a modern workflow
 
-#### Links
 
-- [Temple Update](http://templeupdate.com/)
-- [Temple Update (GitHub)](https://github.com/templesmc/tuupdate/)
-- [Temple TV](http://templetv.net/)
-
-### Web Editor @ The Temple News
-
+#### The Temple News
+Web Editor
 *June 2012 – May 2014*
 
-- Redesigned site in 2012
+- Redesigned site in 2012, winning several awards as one of the first college media websites to use responsive design
 - Developed new features, maintenance, designed unique pages for special issues
-- Led production on a longform multimedia story
-- Collaborated with section editors on web-exclusive content
-- Responded to support requests
-- Posted articles every week prior to hiring an Assistant Web Editor in spring 2013
-
-#### Awards
-
-- Winner, 2014 ACP Online Pacemaker - Newspaper More than 20,000 Enrollment
-- Finalist, 2014 EPPY Award for Best College/University Newspaper Website  
-- Finalist, 2013 EPPY Award for Best College/University Newspaper Website  
-- Winner, 2013 Student Keystone Press Award for Best Website
-- Finalist, 2012 EPPY Award for Best College/University Newspaper Website
-
-#### Links
-
-- [The Temple News](http://temple-news.com/)
-- ['Chop, Boom, You're Gone'](http://chopboom.com/)
-- [TTN: The Essayist](http://temple-news.com/essays/)
-- ['Chop, Boom, You're Gone' (GitHub)](https://github.com/TheTempleNews/chopboom)
-
-## Education
-
-**BA Journalism**  
-*2009 – 2014*  
-Photojournalism concentration  
-Temple University  
-Philadelphia, PA  
-
-Multimedia / Interactive Design  
-*2007 – 2008*  
-University of the Arts  
-Philadelphia, PA  
+- Led web production of a longform multimedia story, ‘Chop, Boom, You’re Gone’
 
 
-## Technology + Skills
+### Skills
 
-- PHP / WordPress / Drupal / Twig
-- JavaScript / AJAX / jQuery / Node.js
-- HTML5
-- CSS3/Sass
-- Python / Django
-- SQL
-- Git / GitHub
-- TDD / PHPUnit
-- Bash / ZSH
-- Grunt / Gulp
-- Ruby
-- Vagrant
-- Jekyll
-- Agile
-- OOP
-- REST APIs / JSON / XML
-- CircleCI / Travis CI
-- Amazon Web Services
-- Adobe Creative Suite
-- Google Docs
-- Microsoft Office
-- Slack
-- macOS
-- Linux
-- Microsoft Windows 10
+PHP, CSS3/Sass, JavaScript (ES6+), WordPress, Git/GitHub, jQuery, Backbone, React,
+Webpack/Rollup, AWS, MySQL, Redis
+
+
+### Education
+
+**BA Journalism**
+*2009 – 2014*
+Temple University
+
+Interactive Design
+*2007 – 2008*
+University of the Arts

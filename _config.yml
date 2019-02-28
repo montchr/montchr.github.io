@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-title:            'mont(gomery), chr(is)'
+title:            'montgomery, chris'
 tagline:          'A website for Chris Montgomery'
 description:      'Chris Montgomery is a web developer. Chris works for a company called Spirited Media.'
 url:              https://montchr.io
@@ -19,7 +19,7 @@ livereload: true
 author:
   name:           'Chris Montgomery'
   url:            https://twitter.com/montchr
-  twitter:        https://twitter.com/montchr
   github:         https://github.com/montchr
-  linkedin:       https://www.linkedin.com/in/montchr
+  twitter:        https://twitter.com/montchr
   pinboard:       https://pinboard.in/u:montchr
+  linkedin:       https://www.linkedin.com/in/montchr
