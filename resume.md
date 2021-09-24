@@ -4,15 +4,21 @@ title: Résumé
 ---
 
 # Chris Montgomery
-## Full-Stack Developer
-[chris@montchr.io](mailto:chris@montchr.io)
+## Software Developer
+[chris@cdom.io](mailto:chris@cdom.io)
 https://github.com/montchr
 
 ### Experience
 
+#### Alley
+Senior Software Developer
+*April 2019 – Present*
+
+I forgot I had a personal website.
+
 #### Spirited Media
 Web Developer
-*January 2015 – Present*
+*January 2015 – April 2019*
 
 - Working with a team of experienced developers, designers, and media professionals on continuing development of a responsive news publishing framework based on WordPress
 - Served as sole developer for over a year of the company’s initial growth period
